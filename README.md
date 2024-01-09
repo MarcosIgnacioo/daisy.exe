@@ -1,3 +1,4 @@
+artista : https://www.newgrounds.com/art/view/mogy64/daisy
 # daisy.exe
 gracias ahk por hacerme la vida mejor
 
