@@ -1,4 +1,4 @@
-artista : https://www.newgrounds.com/art/view/mogy64/daisy
+artista : (https://mogy64.newgrounds.com/)
 update : me acabo de dar cuenta como es el dibujo completo no sabia que era asi XD
 # daisy.exe
 gracias ahk por hacerme la vida mejor
